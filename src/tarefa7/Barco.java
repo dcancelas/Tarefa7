@@ -34,5 +34,5 @@ public abstract class Barco {
     }
 
     public abstract float calcularPrecio();
-    public  abstract String tipoBarco();
+    public abstract String tipoBarco();
 }
